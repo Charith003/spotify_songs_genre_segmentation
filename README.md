@@ -1,4 +1,4 @@
-# spotify_songs_genre_segmentation
+# Spotify_Songs_Genre_Segmentation
 This project uses unsupervised machine learning techniques to analyze Spotify song data in order to group similar tracks and analyze audio characteristics. It divides songs into meaningful groups according to musical characteristics like danceability, energy, tempo, loudness, and acousticness using feature scaling, correlation analysis, and K-Means clustering with PCA for visualization.
 
 Cosine similarity is used to construct a content-based recommendation system that suggests songs that are most similar to a chosen track. Through the identification of tracks with similar sound profiles and genres, the system assists users in discovering new music.
