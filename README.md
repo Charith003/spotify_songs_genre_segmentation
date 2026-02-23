@@ -5,7 +5,7 @@ Cosine similarity is used to construct a content-based recommendation system tha
 
 The project is perfect for music analytics and machine learning projects because it showcases a full data science pipeline, which includes preprocessing, exploratory data analysis, clustering, visualization, and personalized music recommendation.
 
-### Project Objectives
+### Project Objectives:
 
 Segment songs into distinct musical genres and clusters
 
@@ -18,7 +18,7 @@ Visualize clusters for better interpretation
 Improve personalized music discovery
 
 
-### Dataset Overview
+### Dataset Overview:
 
 The dataset contains thousands of Spotify tracks with features including:
 
@@ -40,7 +40,7 @@ Valence
 
 Playlist genre and subgenre
 
-### Features
+### Features:
 
  Data cleaning and preprocessing
  
@@ -56,7 +56,7 @@ Playlist genre and subgenre
  
  Ranked similarity scores
 
- ### Libraries Used
+ ### Libraries Used:
 
 Pandas
 
@@ -68,6 +68,6 @@ Seaborn
 
 Scikit-learn
 
-### License
+### License:
 
 This project is open-source under the MIT License.
