@@ -17,29 +17,6 @@ Visualize clusters for better interpretation
 
 Improve personalized music discovery
 
-
-### Dataset Overview:
-
-The dataset contains thousands of Spotify tracks with features including:
-
-Danceability
-
-Energy
-
-Loudness
-
-Tempo
-
-Speechiness
-
-Acousticness
-
-Instrumentalness
-
-Valence
-
-Playlist genre and subgenre
-
 ### Features:
 
  Data cleaning and preprocessing
